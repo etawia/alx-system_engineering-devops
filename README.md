@@ -1,1 +1,1 @@
-Shell Perm
+Shell basics and permissions
